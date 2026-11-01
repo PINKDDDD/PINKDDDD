@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a master's information system management student at Washington University in St.Louis<br>👯 I’m looking for a software engineer job.<br>🤝 I’m looking for help with finding a software engineer job.<br>🌱 I’m currently working on a full-stack project.<br>💬 I'm currently working on a project that can automatically make trading in the live market.<br>⚡ Fun fact: I like to spend at least one hour in the gym.
+🔭 I'm a Python developer with an M.S. in Information Systems Management from Washington University in St. Louis.<br>💼 My background includes operations management and building Python automation tools to improve business workflows.<br>🌱 I'm currently developing an AI job search agent using LangGraph, Gemini, and structured job matching.<br>💬 I'm also building a Django-based algorithmic trading system focused on market analysis, backtesting, and paper-trading execution.<br>🎯 I'm interested in AI Developer, Applied AI Engineer, and Python Backend Developer opportunities.<br>⚡ Fun fact: I enjoy spending time at the gym.
 
 
 ## 🌐 Socials:
